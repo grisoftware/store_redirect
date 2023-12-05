@@ -1,3 +1,7 @@
+## 2.1.0
+
+* Upgrade AGP to 8.1.3, add namespace and set compileSdk to 34
+
 ## 2.0.1
 
 * Migration to MavenCentral
