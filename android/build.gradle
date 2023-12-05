@@ -23,7 +23,7 @@ apply plugin: 'com.android.library'
 
 android {
     compileSdk 34
-    nameSpace "com.danieldallos.storeredirect"
+    namespace "com.danieldallos.storeredirect"
 
     defaultConfig {
         minSdkVersion 16
